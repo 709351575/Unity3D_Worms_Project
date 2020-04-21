@@ -1,0 +1,3488 @@
+fileFormatVersion: 2
+guid: 74f03d52f631f2643b34b7d79ee82641
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_0
+  - first:
+      213: 21300002
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_1
+  - first:
+      213: 21300004
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_2
+  - first:
+      213: 21300006
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_3
+  - first:
+      213: 21300008
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_4
+  - first:
+      213: 21300010
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_5
+  - first:
+      213: 21300012
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_6
+  - first:
+      213: 21300014
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_7
+  - first:
+      213: 21300016
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_8
+  - first:
+      213: 21300018
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_9
+  - first:
+      213: 21300020
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_10
+  - first:
+      213: 21300022
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_11
+  - first:
+      213: 21300024
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_12
+  - first:
+      213: 21300026
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_13
+  - first:
+      213: 21300028
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_14
+  - first:
+      213: 21300030
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_15
+  - first:
+      213: 21300032
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_16
+  - first:
+      213: 21300034
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_17
+  - first:
+      213: 21300036
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_18
+  - first:
+      213: 21300038
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_19
+  - first:
+      213: 21300040
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_20
+  - first:
+      213: 21300042
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_21
+  - first:
+      213: 21300044
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_22
+  - first:
+      213: 21300046
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_23
+  - first:
+      213: 21300048
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_24
+  - first:
+      213: 21300050
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_25
+  - first:
+      213: 21300052
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_26
+  - first:
+      213: 21300054
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_27
+  - first:
+      213: 21300056
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_28
+  - first:
+      213: 21300058
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_29
+  - first:
+      213: 21300060
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_30
+  - first:
+      213: 21300062
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_31
+  - first:
+      213: 21300064
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_32
+  - first:
+      213: 21300066
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_33
+  - first:
+      213: 21300068
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_34
+  - first:
+      213: 21300070
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_35
+  - first:
+      213: 21300072
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_36
+  - first:
+      213: 21300074
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_37
+  - first:
+      213: 21300076
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_38
+  - first:
+      213: 21300078
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_39
+  - first:
+      213: 21300080
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_40
+  - first:
+      213: 21300082
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_41
+  - first:
+      213: 21300084
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_42
+  - first:
+      213: 21300086
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_43
+  - first:
+      213: 21300088
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_44
+  - first:
+      213: 21300090
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_45
+  - first:
+      213: 21300092
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_46
+  - first:
+      213: 21300094
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_47
+  - first:
+      213: 21300096
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_48
+  - first:
+      213: 21300098
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_49
+  - first:
+      213: 21300100
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_50
+  - first:
+      213: 21300102
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_51
+  - first:
+      213: 21300104
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_52
+  - first:
+      213: 21300106
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_53
+  - first:
+      213: 21300108
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_54
+  - first:
+      213: 21300110
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_55
+  - first:
+      213: 21300112
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_56
+  - first:
+      213: 21300114
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_57
+  - first:
+      213: 21300116
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_58
+  - first:
+      213: 21300118
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_59
+  - first:
+      213: 21300120
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_60
+  - first:
+      213: 21300122
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_61
+  - first:
+      213: 21300124
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_62
+  - first:
+      213: 21300126
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_63
+  - first:
+      213: 21300128
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_64
+  - first:
+      213: 21300130
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_65
+  - first:
+      213: 21300132
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_66
+  - first:
+      213: 21300134
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_67
+  - first:
+      213: 21300136
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_68
+  - first:
+      213: 21300138
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_69
+  - first:
+      213: 21300140
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_70
+  - first:
+      213: 21300142
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_71
+  - first:
+      213: 21300144
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_72
+  - first:
+      213: 21300146
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_73
+  - first:
+      213: 21300148
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_74
+  - first:
+      213: 21300150
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_75
+  - first:
+      213: 21300152
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_76
+  - first:
+      213: 21300154
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_77
+  - first:
+      213: 21300156
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_78
+  - first:
+      213: 21300158
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_79
+  - first:
+      213: 21300160
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_80
+  - first:
+      213: 21300162
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_81
+  - first:
+      213: 21300164
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_82
+  - first:
+      213: 21300166
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_83
+  - first:
+      213: 21300168
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_84
+  - first:
+      213: 21300170
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_85
+  - first:
+      213: 21300172
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_86
+  - first:
+      213: 21300174
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_87
+  - first:
+      213: 21300176
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_88
+  - first:
+      213: 21300178
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_89
+  - first:
+      213: 21300180
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_90
+  - first:
+      213: 21300182
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_91
+  - first:
+      213: 21300184
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_92
+  - first:
+      213: 21300186
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_93
+  - first:
+      213: 21300188
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_94
+  - first:
+      213: 21300190
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_95
+  - first:
+      213: 21300192
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_96
+  - first:
+      213: 21300194
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_97
+  - first:
+      213: 21300196
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_98
+  - first:
+      213: 21300198
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_99
+  - first:
+      213: 21300200
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_100
+  - first:
+      213: 21300202
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_101
+  - first:
+      213: 21300204
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_102
+  - first:
+      213: 21300206
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_103
+  - first:
+      213: 21300208
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_104
+  - first:
+      213: 21300210
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_105
+  - first:
+      213: 21300212
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_106
+  - first:
+      213: 21300214
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_107
+  - first:
+      213: 21300216
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_108
+  - first:
+      213: 21300218
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_109
+  - first:
+      213: 21300220
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_110
+  - first:
+      213: 21300222
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_111
+  - first:
+      213: 21300224
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_112
+  - first:
+      213: 21300226
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_113
+  - first:
+      213: 21300228
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_114
+  - first:
+      213: 21300230
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_115
+  - first:
+      213: 21300232
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_116
+  - first:
+      213: 21300234
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_117
+  - first:
+      213: 21300236
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_118
+  - first:
+      213: 21300238
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_119
+  - first:
+      213: 21300240
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_120
+  - first:
+      213: 21300242
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_121
+  - first:
+      213: 21300244
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_122
+  - first:
+      213: 21300246
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_123
+  - first:
+      213: 21300248
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_124
+  - first:
+      213: 21300250
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_125
+  - first:
+      213: 21300252
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_126
+  - first:
+      213: 21300254
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_127
+  - first:
+      213: 21300256
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_128
+  - first:
+      213: 21300258
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_129
+  - first:
+      213: 21300260
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_130
+  - first:
+      213: 21300262
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_131
+  - first:
+      213: 21300264
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_132
+  - first:
+      213: 21300266
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_133
+  - first:
+      213: 21300268
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_134
+  - first:
+      213: 21300270
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_135
+  - first:
+      213: 21300272
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_136
+  - first:
+      213: 21300274
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_137
+  - first:
+      213: 21300276
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_138
+  - first:
+      213: 21300278
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_139
+  - first:
+      213: 21300280
+    second: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_140
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 950
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a833038eacdd1408b27981c296c06a
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 952
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378809ea5884148479de35c43f4211fd
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 951
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd32c4aea210f442a245c54ec7770cf
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 951
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c62669f5f443fd4a85d992222437252
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 951
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4411e1db452c7c40a7d8c92ce6b1b8f
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_5
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 950
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe80c69752019540a0129d8bb7eba0b
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_6
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 952
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefd3f75a50b4844cb44c9c26eb27c96
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_7
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 951
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d509fbdb7cc003a42acd31864ca950eb
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_8
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 951
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d349a5e301f5f45b1b88fabf85f43a
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 948
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3367167b2cd17b459cd3f2caa070560
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 870
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e97f75c1eb1454184f758fddcf582d
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 871
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb28574b59e65cb4da2c3e0080bb31cc
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_12
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 871
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8246c10dbb6860d43a81ef5ac03a6588
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_13
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 871
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb7d1489913b2c4f970aecde395cbc9
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_14
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 870
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d04c4ea8a41dd040a0413431168fb2a
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_15
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 870
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc9a671c0b572e428355aa6572097b4
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_16
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 870
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371cfa33a43019949873caa250da7c89
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_17
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 871
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d8b0bd2c945b74abbf6415d27440fa
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_18
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 871
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027c4a03725d9394e804bb6376bed84d
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_19
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 871
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cb3fa5140366d4095c44ba2f73633a
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_20
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 871
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368389336153bb245a7693c91c1d33ce
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_21
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 874
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff1bdf78db96604d88fff119b656f2f
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_22
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 871
+        width: 76
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a89931d07fe6864594a5663059b7037
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_23
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 792
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666c5050121dab14ba818a416d8ce764
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_24
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 792
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff1d69f088de714887065aae731e1fe
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_25
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 796
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591c9ea4dec416f4fb8ab2708a175b88
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_26
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 798
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc0abb30f84aee418e7cbba61e742af
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_27
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 791
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c2f8bd70916f346b4de9e853700c8a
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_28
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 788
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3991d5a39838ca4595dba73fd3145c7
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_29
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 792
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fec63bc8e81afb43b0894cb850a4c32
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_30
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 788
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3eb67d6125dce044998a6e764f9e366
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_31
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 787
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6cb2b3cc6af0e43800f2474963ac72
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_32
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 784
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2fa697fac17214e9bb163d8a306742
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_33
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 785
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0025e7473dfdb3549901ea4d83eb39b6
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 708
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cc2b7a9f191184da5848465f246f75
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_35
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 710
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a46e0304706f947bf851433a06fecf
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_36
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 764
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c382744dc90126f448a344784f0752bc
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_37
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 708
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c788dc2690b5b468fa656c3e0f55b6
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_38
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 708
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b72dae2eeb802847897ee35671e501c
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 765
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d700974a0d42349a881500c7c0a2f1
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_40
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 708
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ba2a0f3c24ee647a2c3eeeee072f44
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_41
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 767
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294329a47c1869a47b55eaedd7550ae0
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_42
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 762
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b490de89b0f34ba40994aa986e763ebd
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_43
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 707
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f636b0e76c84a9c4b9e774710e12fcdb
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_44
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 708
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d2f5a101ce3824b8f86691f41f4e17
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_45
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 708
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd09d5145b2f92c4dbb2a5be8a0b3300
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_46
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 705
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94970532e49ec846a07f6307ea89678
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_47
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 704
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2a92cec98e9fa4d9c4ed83ad38b45f
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_48
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 704
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdaf0eed9860e214d911adcf8a69c18c
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 708
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32694b2795073044ac1f69a19e25ff6
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_50
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 763
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c75257a5ffb254ba4a257081d52278
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_51
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 756
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9586f797425ef45adacdbc3a3011e8
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_52
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 752
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1904f297353e34882a626b5e603ce7
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_53
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 628
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731cbdde91b6a244a8de43abe776832c
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_54
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 628
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5b70e104815d6478f1e52d92e68082
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_55
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 688
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5446cb60b4c99fd448f338760d3f5f41
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_56
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 691
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242f0a4d6eb28b34a8bd19a7c5395a1a
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_57
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 628
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76621a4544ad614f9502670a544bf30
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_58
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 630
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d394bedaf872140abf90954c529e87
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_59
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 628
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511a9d037ac361845926ab11ed2e3151
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_60
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 631
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40d94ceb70d9c2418055f84863640cb
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_61
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 630
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcf4e74a0d9b0049bd429b124c79091
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_62
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 628
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed4dea6b1b8a5845a135b0b08dc6b86
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_63
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 628
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b699e7ca0859a04eabd87117fb3e73e
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_64
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 628
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07634ae2f439d0943966dd4810ae146f
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_65
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 631
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22987fce2fc1f46458458729c3c4d057
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_66
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 550
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c8fdc5834631648893c8d5134ff748
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_67
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 550
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182f55a3e76f45549a6203fd0d922f4f
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_68
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 551
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41aab27310844924d823ec6f992f7573
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_69
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 550
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7392394cbb9bc8468f4997904c269e7
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_70
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 550
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6befb77d2c4d44cae38d00b5669bdc
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_71
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 551
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a71d8b315637ef48b56e5e2e3ebdabe
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_72
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 550
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3dbe3f3054ca4478b08e2809c9fa3a
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_73
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 548
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5246f7e364b137048b46eddcbb8e53d5
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_74
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 550
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceec8c955824d394dac286e2ab0820f2
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_75
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 550
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa19bb56b3b26624d95e178d63439ffb
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_76
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 548
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41c9d73b6f06c04eb35f3b8ba0e1070
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_77
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 550
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b16baaacd18b5e4a9d01d6257762881
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_78
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 471
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fb041b2be91c44ba881487ba53cada
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_79
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 464
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3537cc1f00b734045ad1cfd339365744
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_80
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 475
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4fc0316c8b4c24fa631e2f2c8bfb87
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_81
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 471
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb87279be443c24e8abb7cf6aa6e853
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_82
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 464
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4fc4ac807cd284aac588a0f214f9c6
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_83
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 475
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae504abb60eaa24a8ba3712316a4386
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_84
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 467
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a4a16d0c11fe743bf26ca01d859cc2
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_85
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 468
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d51648d051029458734587817d96b2
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_86
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 467
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619d1ff9638fd1d4f8f4848f1ed0ba23
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_87
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 469
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5307be33a13ac0428d5922a70ff9758
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_88
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 468
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad5afd4e5794ff448ad7b6abe0082b8
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_89
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 468
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5223753c4e72e3c46a3cabe912f2cb63
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_90
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 395
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1034ab7b13740e94f9065994207c1098
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_91
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 387
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48ea33f138a3414ca87254fe779c02a
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_92
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 400
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fd2f3cae68d51408f1103174b66da0
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_93
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 389
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a474dd82436154cab79592f1011805
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_94
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 393
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0c6921770538a4aa793bf4658dae62
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_95
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 386
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc160e5b6120886498ec098a1ae4be9a
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_96
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 395
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f810eb962eead418ec6815b124ed20
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_97
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 400
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9152ea31419d57d46b38bfc67019506e
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_98
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 387
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5848cd5f6070b5746bddfa15c28459b5
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_99
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 401
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85eb1d3dfb68ba246aec5e42fa9e801c
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_100
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 389
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a174fbe58aff8d438e44acee34497cb
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_101
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 393
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f940214bd357f2547ac5b23b6381bfcb
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_102
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 385
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18f3a08e755c9f44921e8118708b736
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_103
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 310
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf305a12da450714a84e1c3fd0035941
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_104
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 311
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323a73b76e191a9468e60a32ef8d196d
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_105
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 311
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205989ace04c37e4fa6086d7c53273a3
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_106
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 311
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a444d48a4b33b78458bd3e3c750a0c12
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_107
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 311
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ee029338fde454ebddac02db7227c6
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_108
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 311
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ff9023b222d3c4880432ae7149ce92
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_109
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 310
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547acc1ab3acbcc409e3cf222082b50a
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_110
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 312
+        width: 78
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1847c1083990a4f9b72d954e8502b9
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_111
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 227
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d324612c39d357449be67550810e66d
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_112
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 226
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59430d676ca78d2448e2685cb6025d9f
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_113
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 226
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6ef9cdf4027554fb345999208e2dcb
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_114
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 224
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0f8a17c7b619148bf705bf0a01586d
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_115
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 225
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15951c4f5c1eada4ba1984faf227e92c
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_116
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 227
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea3061ef66a9574fba5e6c4d4cadee3
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_117
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 230
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85934a0031d19ae4fa66d36eaad08711
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_118
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 230
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e16e92c11eacf942954d9f5990e4a2d
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_119
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 226
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645720d04caf1af479452602776e1079
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_120
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 228
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f567483fa257fa0468cb1e771aa8e41a
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_121
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 231
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6e669bf518fb64783cc23683808720
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_122
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 231
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9564d8dd0206c6640bcae11c864d9ae4
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_123
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 147
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774375235c89f244e9a47809e640c6f4
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_124
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc442334f7dea4c429dff2c1eb0086f6
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_125
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 146
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea205cedeb31d1d4ab245eb550ef4428
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_126
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 144
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63752fa263300f4bb7f64079a9c141f
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_127
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 146
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0021dda9961de9c43bbdc65e5550e80c
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_128
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 147
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630de714045bf504f9d6943c2f54d5a2
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_129
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 146
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85778f63548b806499d93e671f543cd2
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_130
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 145
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c6cf427d92e76428da9b10fb84eb78
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_131
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 144
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ababfabe4e78645ab07da3d947e1c1
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_132
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 146
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6891e8c7d70d5447a1daf1d17a7e9da
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_133
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 86
+        width: 126
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47660319331812f4395ef8df06932665
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_134
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 76
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6e603c6fc205442a628018560b311c
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_135
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957439e18d96c824cae03f38e90cbe29
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_136
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 72
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780be967b67dc2049a50dc2c67e8bf7d
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_137
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 71
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a8b490bc21d56499b4f50413767aac
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_138
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 70
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b4ad1a5ae109b43b933977587fe772
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_139
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 76
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989b03783c1347b4a995882952865f5d
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 421971_iiih1tmaniii_spelunky-worms-boggy-b-custom-skin_140
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 72
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ba2c0868372894388f94cfa9e6b02d
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dda5a3c9fd6b05f4a88150ce2e4f526b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
