@@ -4,7 +4,7 @@ I searched for proper assets in the Asset Store built the map. By setting the So
 
 # Round Switch
 
-In each round, the player can attack by either throwing a bomb or using Kamehameha. When the attack is over, switch to the other player's turn. You can refer to the file PlayerWeaponControl for detailed implementation.
+In each round, the player can attack by either throwing a bomb or using Kamehameha. When the attack is over, switch to the other player's turn. You can refer to the file *PlayerWeaponControl.cs* for detailed implementation.
 
 # The Character
 
