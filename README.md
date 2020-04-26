@@ -28,7 +28,7 @@ When the bomb touches the ground, it will destroy its nearby ground. The destroy
 
 # Skills
 
-To make the game more interesting, I added two skills. The first skill is Qigong wave. The damage is the same as the accurate hit of the bomb, but it is not affected by gravity and will not fall. For balance, I stipulate that players can only launch Qigong waves in parallel. When colliding with the player, it will cause damage. In addition to attacking props, players can also teleport by throwing planes. When the plane hits the ground (not the player), teleportation is initiated. During the round, players can choose this skill in the upper right corner. If you do not choose, it will be considered as throwing a bomb this round. The above two skills are implemented by the files Hameha and Plane respectively.
+To make the game more interesting, I added two skills. The first skill is Kamehameha. Since it is not affected by gravity, it does not fall. When colliding with the player, it will cause damage. Additionally, players can also teleport themselves through planes. When the plane hits the ground (not the player), the player moves to the plane's location at once. In each round, the player can choose his skill in the upper right corner. The bomb is set to be the default weaponBy default. These skills are implemented by the files Hameha and Plane respectively.
 
 # Game Restart
 When any of the two players dies, the game ends and the restart button appears. Click this button to restart the game (the players spawn with full HP and the map is reloaded). See the file ResetGame for details.
