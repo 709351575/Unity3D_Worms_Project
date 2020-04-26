@@ -1,30 +1,30 @@
 # The Map
 
-Find suitable resources in the Asset Store and build your own map. By setting Sorting Layer, I set the display level between objects.
+I searched for proper assets in the Asset Store built the map. By setting the Sorting Layers, I set the display order between objects shown on the map.
 
 # Round Switch
 
-In each round, the player can only fire one item. When the prop launched is effective, switch to the next player. Specifically, the file corresponding to the file PlayerWeaponControl and each prop can be realized.
+In each round, the player can attack by either throwing a bomb or using kamehameha. When the attack is over, switch to the other player's turn. You can refer to the file PlayerWeaponControl for detailed implementation.
 
-# The Character image
+# The Character
 
-The character image is based on Worms. In order to make the game smoother, I have made animations such as standing, injury, and death.
+The character is designed to be Worms. In order to make the game smoother, I have made animations such as stand, hurt, and dead.
 
 # Movement
 
-At the beginning of each round, the player can move left and right (AD control). Movement will deduct the endurance value, and the endurance value will not be able to move after running out. This function is realized through the files PlatformerCharacter2D, Platformer2DUserControl.
+At the beginning of each round, the players can consume their stamina and move left or right (controlled by AD). When the stamina runs out, they will not able to move any more. The movement is realized through the files PlatformerCharacter2D and Platformer2DUserControl.
 
 # Injured Animation
 
-After the player is hit, the character will display the injured animation and the blood bar will decrease smoothly. I implemented this function through Coroutine, see the file PlayerHealthControl for details.
+When the player gets attacked, the character will display the injured animation and the HP bar will decrease smoothly. I implemented this function through Coroutine. See the file PlayerHealthControl for details.
 
 # Bomb
 
-According to the angle and strength determined by the player, a bomb is fired. This function is implemented by Rigidbody's AddForce function. The specific content can be found in the file PlayerWeaponControl.
+According to the angle and strength determined by the player, a bomb is fired. This function is implemented by Rigidbody's AddForce function. It is implemented in the file PlayerWeaponControl.
 
-# Destroy effect
+# Destroy Effect
 
-When the bomb touches the ground, it will destroy the nearby ground. This function is realized through the Destructible Sprite file.
+When the bomb touches the ground, it will destroy its nearby ground. The destroy effect is realized in the file Destructible Sprite.
 
 # Skills
 
